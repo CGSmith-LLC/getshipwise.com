@@ -33,7 +33,7 @@
 <div class="flex">
   <div class="w-3/5 pr-20">
     <h3>Professional Shipping Docs and Labels</h3>
-    <p>Our Magento shipping extension fills out all necessary shipping labels and documents.</p>
+    <p>Our {name} shipping extension fills out all necessary shipping labels and documents.</p>
     <ul>
       <li>Print shipping labels for 55+ carriers.</li>
       <li>Print Packing Slips</li>
