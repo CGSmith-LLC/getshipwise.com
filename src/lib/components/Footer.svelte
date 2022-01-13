@@ -1,19 +1,19 @@
 <div class="px-3 mx-auto text-sm">
-	<div class="flex justify-between max-w-7xl mx-auto mt-10 bg-gray-800 text-gray-300 rounded p-6">
-		<div class="w-1/4">
+	<div class="flex flex-wrap justify-between max-w-7xl mx-auto mt-10 bg-gray-800 text-gray-300 rounded p-6">
+		<div class="w-1/2 md:w-1/4 mb-9 md:mb-0">
 			<h6>Products & Pricing</h6>
 			<ul>
 				<li><a href="/pricing">Pricing</a></li>
 			</ul>
 		</div>
-		<div class="w-1/4">
+		<div class="w-1/2 md:w-1/4 mb-9 md:mb-0">
 			<h6>Developers</h6>
 			<ul>
 				<li><a href="/integrations">Integrations</a></li>
 				<li><a href="/documentation">Documentation</a></li>
 			</ul>
 		</div>
-		<div class="w-1/4">
+		<div class="w-1/2 md:w-1/4">
 			<h6>Company</h6>
 			<ul>
 				<li><a href="/about">About</a></li>
@@ -23,7 +23,7 @@
 				<li><a href="/legal/cookie-policy">Cookie Policy</a></li>
 			</ul>
 		</div>
-		<div class="w-1/4">
+		<div class="w-1/2 md:w-1/4">
 			<h6>Have a Question?</h6>
 			<p class="my-3">
 				Reach out to our sales team for immediate assistance with all your sales inquiries.
